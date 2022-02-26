@@ -1,0 +1,20 @@
+
+{
+"items" : [
+    {
+        "id":1,
+        "checked": false,
+        "item":"Macbook pro"
+    },
+    {
+        "id":2,
+        "checked": false,
+        "item":"Gtx 730Ti"
+    },
+    {
+        "id":3,
+        "checked": false,
+        "item":"Audio Technika headphone"
+    }
+]
+}
